@@ -1,0 +1,5 @@
+text = input("inter the text:")
+text = text.split(" ")
+print(text)
+text = "-".join(text)
+print(text)
